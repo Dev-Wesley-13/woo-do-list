@@ -1,5 +1,7 @@
 # 📝 Woo-Do List
 
+🔗 Acesse o projeto: https://dev-wesley-13.github.io/woo-do-list/
+
 Um gerenciador de tarefas simples, funcional e organizado, desenvolvido com **HTML, CSS e JavaScript puro**, com foco em boas práticas, modularização e experiência do usuário.
 
 Este projeto foi criado como parte de estudos em desenvolvimento front-end, mas já seguindo um padrão próximo ao usado em projetos reais.
