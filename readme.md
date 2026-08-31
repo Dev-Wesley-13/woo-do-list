@@ -47,7 +47,8 @@ Essa separação segue princípios básicos de **responsabilidade única** e org
 
 ## 📸 Preview
 
-> (Você pode adicionar um print da aplicação aqui futuramente)
+> <img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/3775dea9-bf38-4b64-bfa6-1a82d68b9e41" />
+
 
 ---
 
